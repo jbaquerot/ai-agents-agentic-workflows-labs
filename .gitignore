@@ -29,3 +29,6 @@ env/
 
 # Logs
 *.log
+
+# Claude configuration and memory
+.claude/
