@@ -32,3 +32,6 @@ env/
 
 # Claude configuration and memory
 .claude/
+
+# Data files
+*.csv
