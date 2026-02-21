@@ -35,3 +35,6 @@ env/
 
 # Data files
 *.csv
+
+# Generated agent outputs
+outputs/
