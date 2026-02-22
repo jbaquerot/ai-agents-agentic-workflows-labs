@@ -38,3 +38,7 @@ env/
 
 # Generated agent outputs
 outputs/
+
+# CrewAI generated files
+db/
+*.lock
